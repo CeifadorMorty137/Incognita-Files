@@ -7161,7 +7161,17 @@
         "path": "mods",
         "unzip": false
       }
-    }
+    },
+        {
+          "id": "minhas-configs",
+          "name": "Configurações do Servidor",
+          "type": "direct",
+          "artifact": {
+            "url": "https://ceifadormorty137.github.io/incognita-files/config.zip",
+            "path": ".",
+            "unzip": true
+          }
+        }
       ]
     }
   ]
