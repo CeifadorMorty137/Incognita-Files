@@ -7162,16 +7162,16 @@
         "unzip": false
       }
     },
-        {
-          "id": "minhas-configs",
-          "name": "Configurações do Servidor",
-          "type": "direct",
-          "artifact": {
-            "url": "https://ceifadormorty137.github.io/incognita-files/config.zip",
-            "path": ".",
-            "unzip": true
-          }
-        }
+    {
+      "id": "minhas-configs",
+      "name": "Configurações do Servidor",
+      "type": "direct",
+      "artifact": {
+        "url": "https://ceifadormorty137.github.io/Incognita-Files/config.zip",
+        "path": ".",
+        "unzip": true
+      }
+    }
       ]
     }
   ]
