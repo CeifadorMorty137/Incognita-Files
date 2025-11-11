@@ -5,7 +5,7 @@
       {
         "id": "incognita-smp",
         "name": "Incognita Corporation",
-        "ip": null,
+        "address": null,
         "minecraftVersion": "1.20.1"
       }
     ],
