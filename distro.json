@@ -1,31 +1,20 @@
 {
   "version": "1.0.0",
-  "rss": "<LINK TO RSS FEED>",
-  "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
-  },
+  "name": "Incognita Corporation",
   "servers": [
     {
-      "id": "incognita-smp-1.20.1",
-      "name": "incognita-smp (Minecraft 1.20.1)",
-      "description": "incognita-smp Running Minecraft 1.20.1 (Forge v47.4.0)",
-      "icon": null,
-      "version": "",
-      "address": "localhost:25565",
-      "minecraftVersion": "1.20.1",
-      "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
-      },
-      "mainServer": false,
-      "autoconnect": false,
-      "modules": [
-        {
-
-        },
+      "id": "incognita-smp",
+      "name": "Incognita Corporation",
+      "ip": "ip.do.seu.servidor",
+      "minecraftVersion": "1.20.1"
+    }
+  ],
+  "modules": [
+    {
+      "id": "org.tlauncher.forge-1.20.1:47.2.0",
+      "name": "Forge 1.20.1",
+      "type": "forge"
+    },
     {
       "id": "minhas-configs",
       "name": "Configurações do Servidor",
@@ -35,8 +24,6 @@
         "path": ".",
         "unzip": true
       }
-    }
-      ]
     }
   ]
 }
