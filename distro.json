@@ -2,13 +2,13 @@
   "version": "1.0.0",
   "name": "Incognita Corporation",
   "servers": [
-    {
-      "id": "incognita-smp",
-      "name": "Incognita Corporation",
-      "ip": "ip.do.seu.servidor",
-      "minecraftVersion": "1.20.1"
-    }
-  ],
+      {
+        "id": "incognita-smp",
+        "name": "Incognita Corporation",
+        "ip": null,
+        "minecraftVersion": "1.20.1"
+      }
+    ],
   "modules": [
     {
       "id": "org.tlauncher.forge-1.20.1:47.2.0",
