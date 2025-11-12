@@ -5,7 +5,7 @@
       {
         "id": "incognita-smp",
         "name": "Incognita Corporation",
-        "address": null,
+        "ip": "elgae-sp1-cl001.elgaehost.com.br:25574",
         "minecraftVersion": "1.20.1"
       }
     ],
